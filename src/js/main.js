@@ -5,3 +5,5 @@ window.addEventListener("DOMContentLoaded", () => {
     panel.render();
 
 });
+
+console.log("sdgfsdgf");
